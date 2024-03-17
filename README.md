@@ -86,7 +86,7 @@ Just run the program and drag and drop the image on top of it.
 You can change the width and height on the option "size" in the top left corner. I also recommend messing around with the contrast and brightness or invert everything from white to black.
 
 
-![size_option](media\size.png)
+![size_option](https://github.com/GuilhermeTorq/steascii/blob/master/media/size.png)
 
 
 After, just highlight  all the ascii and copy it and save it in a txt file.<br/>
