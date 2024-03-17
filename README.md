@@ -46,7 +46,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This programme simply reads everything inside a txt file, looks for spaces and then replaces them with a non-breaking space.
+This program simply reads everything inside a txt file, looks for spaces and then replaces them with a non-breaking space.
 It's very helpful with big ascii art for steam, when you need a "&nbsp" this does it automatically for you.
 <br />
 You don't need to worry about newlines as the code automatically detects it.
@@ -86,7 +86,7 @@ Just run the program and drag and drop the image on top of it.
 You can change the width and height on the option "size" in the top left corner. I also recommend messing around with the contrast and brightness or invert everything from white to black.
 
 
-![size_option](media\size.png)
+![size_option](https://github.com/GuilhermeTorq/steascii/blob/master/media/size.png)
 
 
 After, just highlight  all the ascii and copy it and save it in a txt file.<br/>
@@ -98,7 +98,7 @@ Alternatively you can just paste it in the notepad.
 
 Now just copy it and use it wherever you want :)
 
-<!-- video here --!>
+[<!-- video here --!>](https://github.com/GuilhermeTorq/steascii/assets/77174996/14a6e4a7-2c57-4d0e-a7f7-07dc08f425d4)
 
 
 <!-- ACKNOWLEDGMENTS -->
