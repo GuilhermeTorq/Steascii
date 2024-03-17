@@ -46,7 +46,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This programme simply reads everything inside a txt file, looks for spaces and then replaces them with a non-breaking space.
+This program simply reads everything inside a txt file, looks for spaces and then replaces them with a non-breaking space.
 It's very helpful with big ascii art for steam, when you need a "&nbsp" this does it automatically for you.
 <br />
 You don't need to worry about newlines as the code automatically detects it.
