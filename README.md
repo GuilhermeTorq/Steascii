@@ -98,7 +98,7 @@ Alternatively you can just paste it in the notepad.
 
 Now just copy it and use it wherever you want :)
 
-<!-- video here --!>
+[<!-- video here --!>](https://github.com/GuilhermeTorq/steascii/assets/77174996/14a6e4a7-2c57-4d0e-a7f7-07dc08f425d4)
 
 
 <!-- ACKNOWLEDGMENTS -->
