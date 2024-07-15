@@ -67,7 +67,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
-If you choose to use the .py file
+If you choose to use the .py file, you need to download and install python
 * python
   * [Official Website](https://www.python.org/)
   * Microsoft Store
