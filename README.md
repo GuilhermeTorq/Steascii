@@ -70,7 +70,7 @@ To get a local copy up and running follow these simple example steps.
 If you choose to use the .py file, you need to download and install python
 * python
   * [Official Website](https://www.python.org/)
-  * Microsoft Store
+  * How to install python (https://kinsta.com/knowledgebase/install-python/#windows-1)
 
 If you choose to use the .exe file
 * No need to install anything, just run the program
